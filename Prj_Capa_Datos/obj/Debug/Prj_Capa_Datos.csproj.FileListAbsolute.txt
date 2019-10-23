@@ -1,0 +1,63 @@
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb

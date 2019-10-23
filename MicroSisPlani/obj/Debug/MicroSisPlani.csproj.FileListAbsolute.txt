@@ -1,0 +1,423 @@
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Registrar_Huella.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Registrar_Huella.resources
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+D:\Archivos a salvo\Archviso de Visual estudio\Ejercicios C# 2017\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Registrar_Huella.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MetroFramework.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Registrar_Huella.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MetroFramework.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\FlashControlV71.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\stdole.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\FlashControlV71.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\stdole.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\FlashControlV71.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MetroFramework.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\stdole.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\FlashControlV71.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\MetroFramework.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\ShockwaveFlashObjects.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\stdole.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\MicroSisPlani.exe.config
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\MicroSisPlani.exe
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\MicroSisPlani.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPDevNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPEngNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPGuiNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPShrNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPVerNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\stdole.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.GenerateResource.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CoreCompileInputs.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.exe
+C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
