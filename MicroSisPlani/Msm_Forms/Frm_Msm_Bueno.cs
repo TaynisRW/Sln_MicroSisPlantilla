@@ -35,7 +35,7 @@ namespace MicroSisPlani.Msm_Forms
         private void tocar_timbre ()
         {
             string ruta;
-            ruta = Application.ExecutablePath;
+            ruta = Application.StartupPath;
             System.Media.SoundPlayer son;
             son = new System.Media.SoundPlayer(ruta + @"\Gotaagua.wav");
             son.Play();

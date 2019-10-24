@@ -84,3 +84,14 @@ C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debu
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb

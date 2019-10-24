@@ -85,6 +85,7 @@ namespace MicroSisPlani.Personal
 
 			if (txt_Dni.Text.Trim().Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "El número de Dni debe tener 8 Dígitos"; ver.ShowDialog(); fil.Hide(); txt_Dni.Focus(); return false; }
 
+			if (txt_Dni.Text.Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "El número de Dni debe tener 8 Dígitos"; ver.ShowDialog(); fil.Hide(); txt_Dni.Focus(); return false; }
 			if (txt_nombres.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa el nombre del Personal"; ver.ShowDialog(); fil.Hide(); txt_nombres.Focus(); return false; }
 			if (txt_direccion.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa la dirección del personal"; ver.ShowDialog(); fil.Hide(); txt_direccion.Focus(); return false; }
 			if (txt_correo.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa un correo válido"; ver.ShowDialog(); fil.Hide(); txt_correo.Focus(); return false; }
@@ -165,7 +166,7 @@ namespace MicroSisPlani.Personal
 			catch (Exception ex)
 			{
 				xFotoruta = Application.StartupPath + @"\user.png";
-				Pic_persona.Load(Application.StartupPath + @"\user.png");
+				Pic_persona.Load( Application.StartupPath + @"\user.png");
 			}
 		}
 
@@ -194,8 +195,7 @@ namespace MicroSisPlani.Personal
 
 		private void txt_NroCelular_OnValueChanged(object sender, EventArgs e)
 		{
-			string xcar1;
-			string xcar2;
+			string xcar1, xcar2;
 
 			if (xedit == false)
 			{
@@ -203,7 +203,7 @@ namespace MicroSisPlani.Personal
 				if (txt_nombres.Text.Length == 0) return;
 
 				xcar1 = Convert.ToString(txt_Dni.Text).Substring(3, 5);
-				xcar2 = Convert.ToString(txt_nombres.Text).Substring(1,4);
+				xcar2 = Convert.ToString(txt_nombres.Text).Substring(1, 4);
 				txt_IdPersona.Text = xcar1 + "-" + xcar2;
 			}
 		}
