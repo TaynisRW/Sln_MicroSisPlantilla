@@ -191,7 +191,7 @@ namespace MicroSisPlani.Personal
 			}
 		}
 
-		bool xedit = false;
+		public bool xedit = false;
 
 		private void txt_NroCelular_OnValueChanged(object sender, EventArgs e)
 		{

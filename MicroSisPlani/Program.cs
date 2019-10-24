@@ -18,7 +18,7 @@ namespace MicroSisPlani
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Frm_Marcar_Asistencia());
-            Application.Run(new Frm_Registro_Personal ());
+            Application.Run(new Frm_Login ());
        
 
         }
