@@ -61,3 +61,10 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb

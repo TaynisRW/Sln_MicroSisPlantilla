@@ -75,3 +75,12 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
