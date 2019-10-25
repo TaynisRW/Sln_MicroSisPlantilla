@@ -39,3 +39,9 @@ C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debu
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.dll
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.csprojAssemblyReference.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.pdb
