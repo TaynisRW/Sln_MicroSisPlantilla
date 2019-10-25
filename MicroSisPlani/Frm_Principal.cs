@@ -12,6 +12,7 @@ using Prj_Capa_Datos;
 using Prj_Capa_Entidad;
 using Prj_Capa_Negocio;
 using MicroSisPlani.Msm_Forms;
+using MicroSisPlani.Informes;
 using System.IO;
 
 namespace MicroSisPlani
@@ -26,6 +27,7 @@ namespace MicroSisPlani
 		private void Frm_Principal_Load(object sender, EventArgs e)
 		{
 			ConfiguraListView();
+			ConfigurarListView_Asis();
 
 		}
 
@@ -125,8 +127,9 @@ namespace MicroSisPlani
 
 		private void bt_Explo_Asis_Click(object sender, EventArgs e)
 		{
-
-
+			elTabPage3.Visible = true;
+			elTab1.SelectedTabPageIndex = 2;
+			Cargar_Asistencias_delDia(dtp_fechadeldia.Value);
 
 		}
 
@@ -310,6 +313,143 @@ namespace MicroSisPlani
 			}
 		}
 
+		#region "Asistencia"
+
+		private void ConfigurarListView_Asis()
+		{
+			var lis = lsv_asis;
+			lis.Columns.Clear();
+			lis.Items.Clear();
+			lis.View = View.Details;
+			lis.GridLines = false;
+			lis.FullRowSelect = true;
+			lis.Scrollable = true;
+			//configuración del ancho de las columnas
+			lis.Columns.Add("Id_Asis", 0, HorizontalAlignment.Left);
+			lis.Columns.Add("Dni", 80, HorizontalAlignment.Left);
+			lis.Columns.Add("Nombres del personal", 316, HorizontalAlignment.Left);
+			lis.Columns.Add("Fecha", 90, HorizontalAlignment.Left);
+			lis.Columns.Add("Dia", 80, HorizontalAlignment.Left);
+			lis.Columns.Add("Ho Ingreso", 90, HorizontalAlignment.Left);
+			lis.Columns.Add("Tardnza", 70, HorizontalAlignment.Left);
+			lis.Columns.Add("Ho Salida", 90, HorizontalAlignment.Left);
+			lis.Columns.Add("Adelanto", 90, HorizontalAlignment.Left);
+			lis.Columns.Add("Justificacion", 0, HorizontalAlignment.Left);
+			lis.Columns.Add("Estado", 100, HorizontalAlignment.Left);
+		}
+
+		private void LlenarListView_Asis(DataTable data)
+		{
+			lsv_asis.Items.Clear();
+
+			for (int i = 0; i < data.Rows.Count; i++)
+			{
+				DataRow dr = data.Rows[i];
+				ListViewItem list = new ListViewItem(dr["Id_asis"].ToString()); //cabecera del list View
+				list.SubItems.Add(dr["DNIPR"].ToString());
+				list.SubItems.Add(dr["Nombre_Completo"].ToString());
+				list.SubItems.Add(dr["FechaAsis"].ToString());
+				list.SubItems.Add(dr["Nombre_dia"].ToString());
+				list.SubItems.Add(dr["HoIngreso"].ToString());
+				list.SubItems.Add(dr["Tardanzas"].ToString());
+				list.SubItems.Add(dr["HoSalida"].ToString());
+				list.SubItems.Add(dr["Adelanto"].ToString());
+
+				list.SubItems.Add(dr["Justifacion"].ToString());
+				list.SubItems.Add(dr["EstadoAsis"].ToString());
+				lsv_asis.Items.Add(list);//llena el List View
+			}
+			Lbl_total.Text = Convert.ToString(lsv_asis.Items.Count);
+		}
+
+		private void Cargar_Todas_Asistencias()
+		{
+			RN_Asistencia obj = new RN_Asistencia();
+			DataTable dt = new DataTable();
+
+			dt = obj.RN_Ver_Todas_Asistencias();
+			if (dt.Rows.Count > 0)
+			{
+				//Llamamos al métod LlenarListView
+				LlenarListView_Asis(dt);
+			}
+		}
+
+		private void Cargar_Asistencias_delDia(DateTime fechas)
+		{
+			RN_Asistencia obj = new RN_Asistencia();
+			DataTable dt = new DataTable();
+
+			dt = obj.RN_Ver_Todas_Asistencias_DelDia(fechas);
+			if (dt.Rows.Count > 0)
+			{
+				//Llamamos al métod LlenarListView
+				LlenarListView_Asis(dt);
+			}
+		}
+
+		private void Cargar_Asistencias_delMes(DateTime fechas)
+		{
+			RN_Asistencia obj = new RN_Asistencia();
+			DataTable dt = new DataTable();
+
+			dt = obj.RN_Ver_Todas_Asistencias_DelMes(fechas);
+			if (dt.Rows.Count > 0)
+			{
+				//Llamamos al métod LlenarListView
+				LlenarListView_Asis(dt);
+			}
+		}
+
+		private void Cargar_Asistencias_porValor(string xvalor)
+		{
+			RN_Asistencia obj = new RN_Asistencia();
+			DataTable dt = new DataTable();
+
+			dt = obj.RN_Ver_Todas_Asistencias_ParaExplorador(xvalor);
+			if (dt.Rows.Count > 0)
+			{
+				//Llamamos al métod LlenarListView
+				LlenarListView_Asis(dt);
+			}
+		}
+
+		private void toolStripMenuItem4_Click(object sender, EventArgs e)
+		{
+			Cargar_Todas_Asistencias();
+		}
+
+		private void txt_buscarAsis_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode == Keys.Enter)
+			{
+				Cargar_Asistencias_porValor(txt_Buscar.Text);
+			}
+		}
+
+		private void lbl_lupaAsis_Click(object sender, EventArgs e)
+		{
+			Cargar_Todas_Asistencias();
+		}
+
+		private void verAsistenciasDelDíaToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Solo_Fecha solo = new Frm_Solo_Fecha();
+
+			fil.Show();
+			solo.ShowDialog();
+			fil.Hide();
+
+			if (Convert.ToString(solo.Tag) == "") return;
+
+			DateTime xfecha = solo.dtp_fecha.Value;
+
+			Cargar_Asistencias_delDia(xfecha);
+		}
+
+		#endregion
+
 		private void btn_SaveHorario_Click(object sender, EventArgs e)
 		{
 			try
@@ -365,6 +505,16 @@ namespace MicroSisPlani
 			elTabPage4.Visible = true;
 			elTab1.SelectedTabPageIndex = 3;
 			CargarHorarios();
+		}
+
+		private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txt_buscarAsis_OnValueChanged(object sender, EventArgs e)
+		{
+
 		}
 	}
 }
