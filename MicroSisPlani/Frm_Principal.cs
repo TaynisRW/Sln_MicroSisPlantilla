@@ -12,6 +12,7 @@ using Prj_Capa_Datos;
 using Prj_Capa_Entidad;
 using Prj_Capa_Negocio;
 using MicroSisPlani.Msm_Forms;
+using System.IO;
 
 namespace MicroSisPlani
 {
@@ -26,10 +27,37 @@ namespace MicroSisPlani
 		{
 			ConfiguraListView();
 
-
 		}
 
+		public void Cargar_Datos_usuario()
+		{
+			try
+			{
+				Frm_Filtro xfil = new Frm_Filtro();
 
+				xfil.Show();
+				MessageBox.Show("Bienvenido al sistema: " + Cls_Libreria.Apellidos, "Bienvenido al sistema", MessageBoxButtons.OK, MessageBoxIcon.Information);
+				xfil.Hide();
+
+				Lbl_NomUsu.Text = Cls_Libreria.Apellidos;
+				lbl_rolNom.Text = Cls_Libreria.Rol;
+
+				if (Cls_Libreria.Foto.Trim().Length == 0 | Cls_Libreria.Foto == null) return;
+
+				if (File.Exists(Cls_Libreria.Foto) == true)
+				{
+					pic_user.Load(Cls_Libreria.Foto);
+				}
+				else
+				{
+					pic_user.Image = Properties.Resources.user;
+				}
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
 
 		private void pnl_titu_MouseMove(object sender, MouseEventArgs e)
 		{
@@ -70,7 +98,22 @@ namespace MicroSisPlani
 
 		private void Frm_Principal_FormClosing(object sender, FormClosingEventArgs e)
 		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Sino sino = new Frm_Sino();
 
+			fil.Show();
+			sino.Lbl_msm1.Text = "¿Estás seguro que deseas salir y abandonar el sistema?";
+			sino.ShowDialog();
+			fil.Hide();
+
+			if (Convert.ToString(sino.Tag) == "Si")
+			{
+				Application.ExitThread();
+			}
+			else
+			{
+				e.Cancel = true;
+			}
 
 
 		}
@@ -319,7 +362,9 @@ namespace MicroSisPlani
 
 		private void bt_Config_Click(object sender, EventArgs e)
 		{
-
+			elTabPage4.Visible = true;
+			elTab1.SelectedTabPageIndex = 3;
+			CargarHorarios();
 		}
 	}
 }

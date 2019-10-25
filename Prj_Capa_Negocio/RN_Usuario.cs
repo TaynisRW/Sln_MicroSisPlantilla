@@ -18,6 +18,11 @@ namespace Prj_Capa_Negocio
 			return obj.BD_Verificar_Acceso(Usuario, Contraseña);
 		}
 
+		public DataTable RN_Leer_Datos_Usuario(string Usuario)
+		{
+			BD_usuario obj = new BD_usuario();
+			return obj.BD_Leer_Datos_Usuario(Usuario);
+		}
 
 
 

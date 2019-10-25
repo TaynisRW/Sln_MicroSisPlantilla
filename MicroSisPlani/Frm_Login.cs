@@ -48,11 +48,26 @@ namespace MicroSisPlani
 			if (obj.RN_Verificar_Acceso(usu, pass) == true)
 			{
 				//los datos son correctos:
-				MessageBox.Show("Bienvenido al sistema", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Information);
+				//MessageBox.Show("Bienvenido al sistema", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-				Frm_Principal prin = new Frm_Principal();
+				Cls_Libreria.Usuario = usu;
+
+				dt = obj.RN_Leer_Datos_Usuario(usu);
+				if (dt.Rows.Count > 0)
+				{
+					DataRow dr = dt.Rows[0];
+					Cls_Libreria.IdRol = Convert.ToString(dr["Id_Usu"]);
+					//Nombres = dr["Nombre_Completo"].ToString();
+					Cls_Libreria.Apellidos = dr["Nombre_Completo"].ToString();
+					Cls_Libreria.IdRol = Convert.ToString(dr["Id_Rol"]);
+					Cls_Libreria.Rol = dr["NomRol"].ToString();
+					Cls_Libreria.Foto = dr["Avatar"].ToString();
+				}
+
 				this.Hide();
-				prin.Show();
+				Frm_Principal xMenuPrincipal = new Frm_Principal();
+				xMenuPrincipal.Show();
+				xMenuPrincipal.Cargar_Datos_usuario();
 			}
 			else
 			{
