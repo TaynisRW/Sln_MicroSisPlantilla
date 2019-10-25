@@ -222,8 +222,6 @@ namespace MicroSisPlani
 			Cargar_todo_Perosnal();
 		}
 
-		#endregion
-
 		private void Bt_nuevoPersonal_Click(object sender, EventArgs e)
 		{
 			Frm_Filtro fil = new Frm_Filtro();
@@ -239,6 +237,89 @@ namespace MicroSisPlani
 			{
 				Cargar_todo_Perosnal();
 			}
+		}
+		#endregion
+
+		private void bt_editarPersonal_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Registro_Personal per = new Frm_Registro_Personal();
+
+			if (lsv_person.SelectedIndices.Count == 0)
+			{
+
+			}
+			else
+			{
+				var lsv = lsv_person.SelectedItems[0];
+				string Idpersona = lsv.SubItems[0].Text;
+
+				fil.Show();
+				per.sevaeditar = true;
+				per.Buscar_Personal_ParaEditar(Idpersona);
+				per.ShowDialog();
+				fil.Hide();
+
+				if (Convert.ToString(per.Tag) == "A")
+				{
+					Cargar_todo_Perosnal();
+				}
+			}
+		}
+
+		private void btn_SaveHorario_Click(object sender, EventArgs e)
+		{
+			try
+			{
+				RN_Horario hor = new RN_Horario();
+				EN_Horario por = new EN_Horario();
+				Frm_Filtro fis = new Frm_Filtro();
+				Frm_Msm_Bueno ok = new Frm_Msm_Bueno();
+				Frm_Advertencia adver = new Frm_Advertencia();
+
+				por.Idhora = lbl_idHorario.Text;
+				por.HoEntrada = dtp_horaIngre.Value;
+				por.HoTole = dtp_hora_tolercia.Value;
+				por.HoLimite = Dtp_Hora_Limite.Value;
+				por.HoSalida = dtp_horaSalida.Value;
+
+				hor.RN_Actualizar_Horario(por);
+
+				if (BD_Horario.saved == true)
+				{
+					fis.Show();
+					ok.Lbl_msm1.Text = "El horario fue Actualizado";
+					ok.ShowDialog();
+					fis.Hide();
+
+					elTabPage4.Visible = false;
+					elTab1.SelectedTabPageIndex = 0;
+				}
+			}
+			catch
+			{
+
+			}
+		}
+
+		private void CargarHorarios()
+		{
+			RN_Horario obj = new RN_Horario();
+			DataTable data = new DataTable();
+
+			data = obj.RN_Leer_Horarios();
+			if (data.Rows.Count == 0) return;
+
+			lbl_idHorario.Text = Convert.ToString(data.Rows[0]["Id_Hor"]);
+			dtp_horaIngre.Value = Convert.ToDateTime(data.Rows[0]["HoEntrada"]);
+			dtp_horaSalida.Value = Convert.ToDateTime(data.Rows[0]["HoSalida"]);
+			dtp_hora_tolercia.Value = Convert.ToDateTime(data.Rows[0]["MiTolrncia"]);
+			Dtp_Hora_Limite.Value = Convert.ToDateTime(data.Rows[0]["HoLimite"]);
+		}
+
+		private void bt_Config_Click(object sender, EventArgs e)
+		{
+
 		}
 	}
 }

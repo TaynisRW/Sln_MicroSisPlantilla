@@ -89,5 +89,21 @@ namespace MicroSisPlani
 		{
 			AccederAlSistema();
 		}
+
+		private void txt_pass_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode == Keys.Enter)
+			{
+				Btn_Aceptar_Click(sender, e);
+			}
+		}
+
+		private void txt_usu_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode == Keys.Enter)
+			{
+				txt_pass.Focus();
+			}
+		}
 	}
 }

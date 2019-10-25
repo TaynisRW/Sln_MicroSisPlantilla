@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Prj_Capa_Datos
 {
   public class BD_Personal : Cls_Conexion 
-    {
+  {
 
 		public static bool saved = false;
 		public static bool edited = false;
@@ -179,5 +179,54 @@ namespace Prj_Capa_Datos
 			}
 			return null;
 		}
+
+		public bool BD_Verificar_DniPersonal(string dni)
+		{
+			bool functionReturnValue = false;
+			Int32 xfil = 0;
+
+			SqlConnection Cn = new SqlConnection();
+			SqlCommand Cmd = new SqlCommand();
+			Cn.ConnectionString = Conectar();
+
+			var _with1 = Cmd;
+
+			_with1.CommandText = "Sp_Validar_Dni";
+			_with1.Connection = Cn;
+			_with1.CommandTimeout = 20;
+			_with1.CommandType = CommandType.StoredProcedure;
+			_with1.Parameters.AddWithValue("@Dni", dni);
+			try
+			{
+				Cn.Open();
+				xfil = (Int32)Cmd.ExecuteScalar();
+				if (xfil > 0)
+				{
+					functionReturnValue = true;
+				}
+				else
+				{
+					functionReturnValue = false;
+				}
+
+				Cmd.Parameters.Clear();
+				Cmd.Dispose();
+				Cmd = null;
+				Cn.Close();
+				Cn = null;
+			}
+			catch (Exception ex)
+			{
+				if (Cn.State == ConnectionState.Open)
+					Cn.Close();
+				Cmd.Dispose();
+				Cmd = null;
+				Cn.Close();
+				Cn = null;
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Error);
+				//throw
+			}
+			return functionReturnValue;
+		} //fin de verificar 1
 	}
 }

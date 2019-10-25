@@ -24,12 +24,17 @@ namespace MicroSisPlani.Personal
             InitializeComponent();
         }
 
+		public bool sevaeditar = false;
         //public bool editPerso = false;
       
         private void Frm_Registro_Personal_Load(object sender, EventArgs e)
         {
-			Cargar_rol();
-			Cargar_Distrito();
+			if (sevaeditar == false)
+			{
+				Cargar_rol();
+				Cargar_Distrito();
+			}
+			
         }
 
 		private void Cargar_rol()
@@ -86,15 +91,15 @@ namespace MicroSisPlani.Personal
 			if (txt_Dni.Text.Trim().Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "El número de Dni debe tener 8 Dígitos"; ver.ShowDialog(); fil.Hide(); txt_Dni.Focus(); return false; }
 
 			if (txt_Dni.Text.Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "El número de Dni debe tener 8 Dígitos"; ver.ShowDialog(); fil.Hide(); txt_Dni.Focus(); return false; }
-			if (txt_nombres.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa el nombre del Personal"; ver.ShowDialog(); fil.Hide(); txt_nombres.Focus(); return false; }
-			if (txt_direccion.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa la dirección del personal"; ver.ShowDialog(); fil.Hide(); txt_direccion.Focus(); return false; }
-			if (txt_correo.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa un correo válido"; ver.ShowDialog(); fil.Hide(); txt_correo.Focus(); return false; }
-			if (txt_NroCelular.Text.Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa un número de celular válido"; ver.ShowDialog(); fil.Hide(); txt_NroCelular.Focus(); return false; }
+			if (txt_nombres.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa el nombre de la Persona"; ver.ShowDialog(); fil.Hide(); txt_nombres.Focus(); return false; }
+			if (txt_direccion.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa la dirección de la Persona"; ver.ShowDialog(); fil.Hide(); txt_direccion.Focus(); return false; }
+			if (txt_correo.Text.Length < 4) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa el correo de la Persona"; ver.ShowDialog(); fil.Hide(); txt_correo.Focus(); return false; }
+			if (txt_NroCelular.Text.Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "Ingresa un número el número celular de la Persona"; ver.ShowDialog(); fil.Hide(); txt_NroCelular.Focus(); return false; }
 			if (txt_IdPersona.Text.Length < 8) { fil.Show(); ver.Lbl_Msm1.Text = "No se generó el ID personal correctamente"; ver.ShowDialog(); fil.Hide(); txt_IdPersona.Focus(); return false; }
 
-			if (cbo_sexo.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Seleccionar sexo del personal"; ver.ShowDialog(); fil.Hide(); cbo_sexo.Focus(); return false; }
-			if (cbo_rol.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Selecciona el rol del personal"; ver.ShowDialog(); fil.Hide(); cbo_rol.Focus(); return false; }
-			if (cbo_Distrito.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Selecciona el distrito del personal"; ver.ShowDialog(); fil.Hide(); cbo_Distrito.Focus(); return false; }
+			if (cbo_sexo.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Seleccionar sexo de la persona"; ver.ShowDialog(); fil.Hide(); cbo_sexo.Focus(); return false; }
+			if (cbo_rol.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Selecciona el rol de la persona"; ver.ShowDialog(); fil.Hide(); cbo_rol.Focus(); return false; }
+			if (cbo_Distrito.SelectedIndex == -1) { fil.Show(); ver.Lbl_Msm1.Text = "Selecciona la delegación de la persona"; ver.ShowDialog(); fil.Hide(); cbo_Distrito.Focus(); return false; }
 
 			return true;
 		}
@@ -107,7 +112,17 @@ namespace MicroSisPlani.Personal
 
 			if (ValidarCajasTexto() == false) return;
 
-			Guardar_Personal();
+			if (xedit == false)
+			{
+				if (objper.RN_Verificar_DniPersonal(txt_Dni.Text) == true) { MessageBox.Show("El Dni que intentas ingresar ya se encuentra registrado en el sistema", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation); return; }
+
+				Guardar_Personal();
+			}
+			else
+			{
+				Editar_Personal();
+			}
+			
 		}
 
 		private void Guardar_Personal()
@@ -137,6 +152,47 @@ namespace MicroSisPlani.Personal
 				{
 					fil.Show();
 					ok.Lbl_msm1.Text = "Los datos del personal se han guardado correctamente";
+					ok.ShowDialog();
+					fil.Hide();
+
+					this.Tag = "A";
+					this.Close();
+				}
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
+
+		//Editar personal
+		private void Editar_Personal()
+		{
+			Frm_Msm_Bueno ok = new Frm_Msm_Bueno();
+			Frm_Filtro fil = new Frm_Filtro();
+			RN_Personal obj = new RN_Personal();
+			EN_Persona per = new EN_Persona();
+
+			try
+			{
+				per.Idpersonal = txt_IdPersona.Text;
+				per.Dni = txt_Dni.Text;
+				per.Nombres = txt_nombres.Text;
+				per.anoNacimiento = dtp_fecha.Value;
+				per.Sexo = cbo_sexo.Text;
+				per.Direccion = txt_direccion.Text;
+				per.Correo = txt_correo.Text;
+				per.Celular = Convert.ToInt32(txt_NroCelular.Text);
+				per.IdRol = Convert.ToString(cbo_rol.SelectedValue);
+				per.xImagen = xFotoruta;
+				per.IdDistrito = Convert.ToString(cbo_Distrito.SelectedValue);
+
+				obj.RN_Editar_Personal(per);
+
+				if (BD_Personal.edited == true)
+				{
+					fil.Show();
+					ok.Lbl_msm1.Text = "Los datos del personal se han editado correctamente";
 					ok.ShowDialog();
 					fil.Hide();
 
@@ -205,6 +261,42 @@ namespace MicroSisPlani.Personal
 				xcar1 = Convert.ToString(txt_Dni.Text).Substring(3, 5);
 				xcar2 = Convert.ToString(txt_nombres.Text).Substring(1, 4);
 				txt_IdPersona.Text = xcar1 + "-" + xcar2;
+			}
+		}
+
+		public void Buscar_Personal_ParaEditar(string idpersonal)
+		{
+			try
+			{
+				RN_Personal obj = new RN_Personal();
+				DataTable data = new DataTable();
+
+				Cargar_rol();
+				Cargar_Distrito();
+
+				data = obj.RN_Buscar_Personal_xValor(idpersonal);
+				if (data.Rows.Count == 0) return;
+				{
+					txt_Dni.Text = Convert.ToString(data.Rows[0]["DNIPR"]);
+					txt_nombres.Text = Convert.ToString(data.Rows[0]["Nombre_Completo"]);
+					txt_direccion.Text = Convert.ToString(data.Rows[0]["Domicilio"]);
+					txt_correo.Text = Convert.ToString(data.Rows[0]["Correo"]);
+					txt_NroCelular.Text = Convert.ToString(data.Rows[0]["Celular"]);
+					dtp_fechaNaci.Value = Convert.ToDateTime(data.Rows[0]["Fec_Naci"]);
+					cbo_sexo.Text = Convert.ToString(data.Rows[0]["Sexo"]);
+					cbo_rol.SelectedValue = data.Rows[0]["Id_rol"];
+					cbo_Distrito.SelectedValue = data.Rows[0]["Id_Distrito"];
+					txt_IdPersona.Text = Convert.ToString(data.Rows[0]["Id_Pernl"]);
+					xFotoruta = Convert.ToString(data.Rows[0]["Foto"]);
+				}
+
+				xedit = true;
+				btn_aceptar.Enabled = true;
+				Pic_persona.Load(xFotoruta);
+			}
+			catch (Exception ex)
+			{
+				MessageBox.Show("Error al buscar los datos: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 	}
