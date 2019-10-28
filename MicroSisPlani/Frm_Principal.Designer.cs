@@ -857,97 +857,97 @@
             this.toolStripSeparator7,
             this.bt_solicitarJustificacion});
 			this.SubMenu_Person.Name = "contextMenuStrip1";
-			this.SubMenu_Person.Size = new System.Drawing.Size(209, 244);
+			this.SubMenu_Person.Size = new System.Drawing.Size(210, 222);
 			// 
 			// bt_nuevoPersonal
 			// 
 			this.bt_nuevoPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_nuevoPersonal.Image")));
 			this.bt_nuevoPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_nuevoPersonal.Name = "bt_nuevoPersonal";
-			this.bt_nuevoPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_nuevoPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_nuevoPersonal.Text = "Nuevo Personal";
 			this.bt_nuevoPersonal.Click += new System.EventHandler(this.Bt_nuevoPersonal_Click);
 			// 
 			// toolStripSeparator1
 			// 
 			this.toolStripSeparator1.Name = "toolStripSeparator1";
-			this.toolStripSeparator1.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator1.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_editarPersonal
 			// 
 			this.bt_editarPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_editarPersonal.Image")));
 			this.bt_editarPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_editarPersonal.Name = "bt_editarPersonal";
-			this.bt_editarPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_editarPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_editarPersonal.Text = "Editar Personal";
 			this.bt_editarPersonal.Click += new System.EventHandler(this.bt_editarPersonal_Click);
 			// 
 			// toolStripSeparator4
 			// 
 			this.toolStripSeparator4.Name = "toolStripSeparator4";
-			this.toolStripSeparator4.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator4.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_registrarHuellaDigital
 			// 
 			this.bt_registrarHuellaDigital.Image = ((System.Drawing.Image)(resources.GetObject("bt_registrarHuellaDigital.Image")));
 			this.bt_registrarHuellaDigital.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_registrarHuellaDigital.Name = "bt_registrarHuellaDigital";
-			this.bt_registrarHuellaDigital.Size = new System.Drawing.Size(208, 26);
+			this.bt_registrarHuellaDigital.Size = new System.Drawing.Size(209, 26);
 			this.bt_registrarHuellaDigital.Text = "Registrar Huella Digital";
 			this.bt_registrarHuellaDigital.Click += new System.EventHandler(this.Bt_registrarHuellaDigital_Click);
 			// 
 			// toolStripSeparator2
 			// 
 			this.toolStripSeparator2.Name = "toolStripSeparator2";
-			this.toolStripSeparator2.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator2.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_eliminarPersonal
 			// 
 			this.bt_eliminarPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_eliminarPersonal.Image")));
 			this.bt_eliminarPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_eliminarPersonal.Name = "bt_eliminarPersonal";
-			this.bt_eliminarPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_eliminarPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_eliminarPersonal.Text = "Eliminar Personal";
 			// 
 			// toolStripSeparator3
 			// 
 			this.toolStripSeparator3.Name = "toolStripSeparator3";
-			this.toolStripSeparator3.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator3.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_mostrarTodoElPersonal
 			// 
 			this.bt_mostrarTodoElPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_mostrarTodoElPersonal.Image")));
 			this.bt_mostrarTodoElPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_mostrarTodoElPersonal.Name = "bt_mostrarTodoElPersonal";
-			this.bt_mostrarTodoElPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_mostrarTodoElPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_mostrarTodoElPersonal.Text = "Mostrar Todo el Personal";
 			this.bt_mostrarTodoElPersonal.Click += new System.EventHandler(this.Bt_mostrarTodoElPersonal_Click);
 			// 
 			// toolStripSeparator5
 			// 
 			this.toolStripSeparator5.Name = "toolStripSeparator5";
-			this.toolStripSeparator5.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator5.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_copiarNroDNI
 			// 
 			this.bt_copiarNroDNI.Image = ((System.Drawing.Image)(resources.GetObject("bt_copiarNroDNI.Image")));
 			this.bt_copiarNroDNI.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_copiarNroDNI.Name = "bt_copiarNroDNI";
-			this.bt_copiarNroDNI.Size = new System.Drawing.Size(208, 26);
+			this.bt_copiarNroDNI.Size = new System.Drawing.Size(209, 26);
 			this.bt_copiarNroDNI.Text = "Copiar Nro DNI";
 			this.bt_copiarNroDNI.Click += new System.EventHandler(this.bt_copiarNroDNI_Click);
 			// 
 			// toolStripSeparator7
 			// 
 			this.toolStripSeparator7.Name = "toolStripSeparator7";
-			this.toolStripSeparator7.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator7.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_solicitarJustificacion
 			// 
 			this.bt_solicitarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_solicitarJustificacion.Image")));
 			this.bt_solicitarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_solicitarJustificacion.Name = "bt_solicitarJustificacion";
-			this.bt_solicitarJustificacion.Size = new System.Drawing.Size(208, 26);
+			this.bt_solicitarJustificacion.Size = new System.Drawing.Size(209, 26);
 			this.bt_solicitarJustificacion.Text = "Solicitar Justificacion";
 			// 
 			// Lbl_total
@@ -1174,6 +1174,7 @@
 			this.btn_Asis_With_Huella.TabIndex = 465;
 			this.toolTip1.SetToolTip(this.btn_Asis_With_Huella, "Registrar Asistencia por Huella Digital");
 			this.btn_Asis_With_Huella.UseVisualStyleBackColor = true;
+			this.btn_Asis_With_Huella.Click += new System.EventHandler(this.btn_Asis_With_Huella_Click);
 			// 
 			// lsv_asis
 			// 
@@ -2206,79 +2207,79 @@
             this.aprobarJustificacionToolStripMenuItem,
             this.bt_desaprobarJustificacion});
 			this.subMenuJusti.Name = "contextMenuStrip1";
-			this.subMenuJusti.Size = new System.Drawing.Size(234, 190);
+			this.subMenuJusti.Size = new System.Drawing.Size(235, 190);
 			// 
 			// bt_aprobarJustificacion
 			// 
 			this.bt_aprobarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_aprobarJustificacion.Image")));
 			this.bt_aprobarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_aprobarJustificacion.Name = "bt_aprobarJustificacion";
-			this.bt_aprobarJustificacion.Size = new System.Drawing.Size(233, 26);
+			this.bt_aprobarJustificacion.Size = new System.Drawing.Size(234, 26);
 			this.bt_aprobarJustificacion.Text = "Aprobar Justificacion";
 			// 
 			// toolStripSeparator6
 			// 
 			this.toolStripSeparator6.Name = "toolStripSeparator6";
-			this.toolStripSeparator6.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator6.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_editJusti
 			// 
 			this.bt_editJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_editJusti.Image")));
 			this.bt_editJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_editJusti.Name = "bt_editJusti";
-			this.bt_editJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_editJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_editJusti.Text = "Editar Justificacion";
 			// 
 			// toolStripSeparator8
 			// 
 			this.toolStripSeparator8.Name = "toolStripSeparator8";
-			this.toolStripSeparator8.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator8.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_ElimiJusti
 			// 
 			this.bt_ElimiJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_ElimiJusti.Image")));
 			this.bt_ElimiJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_ElimiJusti.Name = "bt_ElimiJusti";
-			this.bt_ElimiJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_ElimiJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_ElimiJusti.Text = "Eliminar Justificacion";
 			// 
 			// toolStripSeparator9
 			// 
 			this.toolStripSeparator9.Name = "toolStripSeparator9";
-			this.toolStripSeparator9.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator9.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_mostrarJusti
 			// 
 			this.bt_mostrarJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_mostrarJusti.Image")));
 			this.bt_mostrarJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_mostrarJusti.Name = "bt_mostrarJusti";
-			this.bt_mostrarJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_mostrarJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_mostrarJusti.Text = "Mostrar Todo las Justificacion";
 			// 
 			// toolStripSeparator10
 			// 
 			this.toolStripSeparator10.Name = "toolStripSeparator10";
-			this.toolStripSeparator10.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator10.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_CopiarNroJusti
 			// 
 			this.bt_CopiarNroJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_CopiarNroJusti.Image")));
 			this.bt_CopiarNroJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_CopiarNroJusti.Name = "bt_CopiarNroJusti";
-			this.bt_CopiarNroJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_CopiarNroJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_CopiarNroJusti.Text = "Copiar Nro Justificacion";
 			// 
 			// aprobarJustificacionToolStripMenuItem
 			// 
 			this.aprobarJustificacionToolStripMenuItem.Name = "aprobarJustificacionToolStripMenuItem";
-			this.aprobarJustificacionToolStripMenuItem.Size = new System.Drawing.Size(230, 6);
+			this.aprobarJustificacionToolStripMenuItem.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_desaprobarJustificacion
 			// 
 			this.bt_desaprobarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_desaprobarJustificacion.Image")));
 			this.bt_desaprobarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_desaprobarJustificacion.Name = "bt_desaprobarJustificacion";
-			this.bt_desaprobarJustificacion.Size = new System.Drawing.Size(233, 26);
+			this.bt_desaprobarJustificacion.Size = new System.Drawing.Size(234, 26);
 			this.bt_desaprobarJustificacion.Text = "Desaprobar Justificacion";
 			// 
 			// elLabel16
