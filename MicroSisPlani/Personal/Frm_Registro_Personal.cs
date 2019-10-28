@@ -56,7 +56,7 @@ namespace MicroSisPlani.Personal
 			}
 			catch (Exception ex)
 			{
-
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 
@@ -79,7 +79,7 @@ namespace MicroSisPlani.Personal
 			}
 			catch (Exception ex)
 			{
-
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 
@@ -161,7 +161,7 @@ namespace MicroSisPlani.Personal
 			}
 			catch (Exception ex)
 			{
-
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 
@@ -202,7 +202,7 @@ namespace MicroSisPlani.Personal
 			}
 			catch (Exception ex)
 			{
-
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 
@@ -219,7 +219,7 @@ namespace MicroSisPlani.Personal
 					Pic_persona.Load(xFotoruta);
 				}
 			}
-			catch (Exception ex)
+			catch
 			{
 				xFotoruta = Application.StartupPath + @"\user.png";
 				Pic_persona.Load( Application.StartupPath + @"\user.png");

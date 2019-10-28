@@ -67,7 +67,7 @@ namespace MicroSisPlani
 
 		private void xVerificationControl_OnComplete(object Control, FeatureSet FeatureSet, ref DPFP.Gui.EventHandlerStatus EventHandlerStatus)
 		{
-			DPFP.Template TemplateBD = new DPFP.Template();
+			//DPFP.Template TemplateBD = new DPFP.Template();
 			RN_Personal obj = new RN_Personal();
 			RN_Asistencia objas = new RN_Asistencia();
 			DataTable datosPersona = new DataTable();
@@ -92,7 +92,7 @@ namespace MicroSisPlani
 			{
 				datosPersona = obj.RN_Leer_todoPersona();
 				totalFila = datosPersona.Rows.Count;
-				if (datosPersona.Rows.Count == 0) return;
+				if (datosPersona.Rows.Count <= 0) return;
 
 				var datoPer = datosPersona.Rows[0];
 				foreach (DataRow xitem in datosPersona.Rows)
@@ -101,6 +101,8 @@ namespace MicroSisPlani
 
 					fingerByte = (byte[])xitem["FinguerPrint"];
 					NroIDPersona = Convert.ToString(xitem["Id_Pernl"]);
+
+					DPFP.Template TemplateBD = new DPFP.Template();
 
 					TemplateBD.DeSerialize(fingerByte);
 
@@ -157,6 +159,15 @@ namespace MicroSisPlani
 
 									TerminarBucle = true;
 								}
+							}
+							else
+							{
+								LimpiarFormulario();
+								sec = 10;
+								tmr_Conta.Stop();
+								pnl_Msm.Visible = false;
+								xVerificationControl.Enabled = true;
+								lbl_Cont.Text = "10";
 							}
 						}
 						else
@@ -316,7 +327,7 @@ namespace MicroSisPlani
 
 		private void timer1_Tick(object sender, EventArgs e)
 		{
-			lbl_hora.Text = DateTime.Now.ToString("hh:mm:ss");
+			lbl_hora.Text = DateTime.Now.ToString("HH:mm:ss");
 		}
 	}
 }

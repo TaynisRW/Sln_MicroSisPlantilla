@@ -444,7 +444,7 @@
 			this.lbl_hora.TextStyle.Text = "00:00:00";
 			this.lbl_hora.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
 			this.lbl_hora.VisualStyle = Klik.Windows.Forms.v1.Common.ControlVisualStyles.Custom;
-			this.lbl_hora.Click += new System.EventHandler(this.lbl_hora_Click);
+			//this.lbl_hora.Click += new System.EventHandler(this.lbl_hora_Click);
 			// 
 			// timer1
 			// 

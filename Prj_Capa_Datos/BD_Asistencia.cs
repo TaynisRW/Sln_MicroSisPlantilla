@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using Prj_Capa_Entidad;
 
 namespace Prj_Capa_Datos
 {

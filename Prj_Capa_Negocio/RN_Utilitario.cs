@@ -20,7 +20,16 @@ namespace Prj_Capa_Negocio
 			BD_Utilitario.BD_Actualiza_Tipo_Doc(Id_Tipo);
 		}
 
+		public static string RN_Listar_TipoFalta(int Id_Tipo)
+		{
+			return BD_Utilitario.BD_Listar_TipoFalta(Id_Tipo);
+		}
 
+		public void RN_Actualizar_RobotFalta(int IdTipo, string serie)
+		{
+			BD_Utilitario obj = new BD_Utilitario();
+			obj.BD_Actualizar_RobotFalta(IdTipo, serie);
+		}
 
 	}
 }

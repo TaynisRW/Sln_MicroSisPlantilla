@@ -28,7 +28,26 @@ namespace MicroSisPlani
 		{
 			ConfiguraListView();
 			ConfigurarListView_Asis();
+			CargarHorarios();
+			Verificar_Robot_de_Faltas();
 
+		}
+
+		private void Verificar_Robot_de_Faltas()
+		{
+			string tipo;
+			tipo = RN_Utilitario.RN_Listar_TipoFalta(5);
+
+			if (tipo.Trim() == "Si")
+			{
+				timerFalta.Start();
+				rdb_ActivarRobot.Checked = true;
+			}
+			else if (tipo.Trim() == "No")
+			{
+				timerFalta.Stop();
+				rdb_Desact_Robot.Checked = true;
+			}
 		}
 
 		public void Cargar_Datos_usuario()
@@ -57,7 +76,7 @@ namespace MicroSisPlani
 			}
 			catch (Exception ex)
 			{
-
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 			}
 		}
 
@@ -553,6 +572,92 @@ namespace MicroSisPlani
 			fis.Show();
 			asis.ShowDialog();
 			fis.Hide();
+		}
+
+		private void Btn_Savedrobot_Click(object sender, EventArgs e)
+		{
+			RN_Utilitario uti = new RN_Utilitario();
+
+			if (rdb_ActivarRobot.Checked == true)
+			{
+				uti.RN_Actualizar_RobotFalta(5, "Si");
+				if (BD_Utilitario.falta == true)
+				{
+					Frm_Msm_Bueno ok = new Frm_Msm_Bueno();
+					ok.Lbl_msm1.Text = "El Robot fue actualizado";
+					ok.ShowDialog();
+
+					elTab1.SelectedTabPageIndex = 0;
+					elTabPage4.Visible = false;
+				}
+			}
+			else if (rdb_Desact_Robot.Checked == true)
+			{
+				uti.RN_Actualizar_RobotFalta(5, "No");
+				if (BD_Utilitario.falta == true)
+				{
+					Frm_Msm_Bueno ok = new Frm_Msm_Bueno();
+					ok.Lbl_msm1.Text = "El Robot fue actualizado";
+					ok.ShowDialog();
+
+					elTab1.SelectedTabPageIndex = 0;
+					elTabPage4.Visible = false;
+				}
+			}
+			
+		}
+
+		private void TimerFalta_Tick(object sender, EventArgs e)
+		{
+			RN_Asistencia obj = new RN_Asistencia();
+			Frm_Filtro fis = new Frm_Filtro();
+			Frm_Advertencia adver = new Frm_Advertencia();
+			Frm_Msm_Bueno ok = new Frm_Msm_Bueno();
+			DataTable dataper = new DataTable();
+			RN_Personal objper = new RN_Personal();
+
+			int HoLimite = Dtp_Hora_Limite.Value.Hour;
+			int MiLimite = Dtp_Hora_Limite.Value.Minute;
+
+			int horaCaptu = DateTime.Now.Hour;
+			int minutoCaptu = DateTime.Now.Minute;
+
+			string Dniper = "";
+			int Cant = 0;
+			int TotalItem = 0;
+			string xidpersona = "";
+			string IdAsistencia = "";
+			string xjustificacion = "";
+
+			if (horaCaptu >= HoLimite)
+			{
+				if (minutoCaptu > MiLimite)
+				{
+					dataper = objper.RN_Leer_todoPersona();
+
+					if (dataper.Rows.Count <= 0) return;
+					TotalItem = dataper.Rows.Count;
+
+					foreach (DataRow Registro in dataper.Rows)
+					{
+						Dniper = Convert.ToString(Registro["DNIPR"]);
+						xidpersona = Convert.ToString(Registro["Id_Pernl"]);
+						if (xidpersona = RN_Checar_SiPersonal_TieneAsistencia_Registrada(xidpersona.Trim()) == false)
+						{
+							if (obj.RN_Checar_SiPersonal_YaMarco_suFalta(xidpersona.Trim()) == false)
+							{
+								//Registrar falta
+								RN_Asistencia ojbA = new RN_Asistencia();
+								EN_Asistencia asi = new EN_Asistencia();
+								IdAsistencia = RN_Utilitario.RN_NroDoc(3);
+
+								//Verificamos si el personal tiene alguna justificación..
+							}
+						}
+					}
+				}
+			}
+
 		}
 	}
 }
