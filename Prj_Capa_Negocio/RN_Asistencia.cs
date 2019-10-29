@@ -69,5 +69,23 @@ namespace Prj_Capa_Negocio
 			BD_Asistencia obj = new BD_Asistencia();
 			return obj.BD_Buscar_Asistencia_deEntrada(idperso);
 		}
+
+		public bool RN_Checar_SiPersonal_TieneAsistencia_Registrada(string xidPerso)
+		{
+			BD_Asistencia obj = new BD_Asistencia();
+			return obj.BD_Checar_SiPersonal_TieneAsistencia_Registrada(xidPerso);
+		}
+
+		public bool RN_Checar_SiPersonal_YaMarco_suFalta(string xidPerso)
+		{
+			BD_Asistencia obj = new BD_Asistencia();
+			return obj.BD_Checar_SiPersonal_YaMarco_suFalta(xidPerso);
+		}
+
+		public void RN_Registrar_Falta_Personal(string idAsis, string idPerso, string justifi)
+		{
+			BD_Asistencia obj = new BD_Asistencia();
+			obj.BD_Registrar_Falta_Personal(idAsis, idPerso, justifi);
+		}
 	}
 }

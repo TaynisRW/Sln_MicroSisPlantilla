@@ -642,7 +642,8 @@ namespace MicroSisPlani
 					{
 						Dniper = Convert.ToString(Registro["DNIPR"]);
 						xidpersona = Convert.ToString(Registro["Id_Pernl"]);
-						if (xidpersona = RN_Checar_SiPersonal_TieneAsistencia_Registrada(xidpersona.Trim()) == false)
+
+						if (obj.RN_Checar_SiPersonal_TieneAsistencia_Registrada(xidpersona.Trim()) == false)
 						{
 							if (obj.RN_Checar_SiPersonal_YaMarco_suFalta(xidpersona.Trim()) == false)
 							{
@@ -652,8 +653,39 @@ namespace MicroSisPlani
 								IdAsistencia = RN_Utilitario.RN_NroDoc(3);
 
 								//Verificamos si el personal tiene alguna justificación..
+								//if (objA.RN_Verificar_Justificacion_Aprobado(xidpersona) == true)
+								//{
+								//	xjustificacion = "Falta tiene justificación";
+								//}
+								//else
+								//{
+								//	xjustificacion = "No tiene justificación";
+								//}
+
+								//obj.RN_Registrar_Falta_Personal(IdAsistencia, xidpersona, xjustificacion);
+								//if (BD_Asistencia.faltasaved == true)
+								//{
+								//	RN_Utilitario.RN_Actualiza_Tipo_Doc(3);
+								//	Cant += 1;
+								//}
 							}
 						}
+					}//Final del For Each
+					if (Cant > 1)
+					{
+						timerFalta.Stop();
+						fis.Show();
+						ok.Lbl_msm1.Text = "Un Total de: " + Cant.ToString() + "/" + TotalItem + " Faltas se han registrado exitosamente";
+						ok.ShowDialog();
+						fis.Hide();
+					}
+					else
+					{
+						timerFalta.Stop();
+						fis.Show();
+						ok.Lbl_msm1.Text = "El día de hoy no se han registrado faltas en el trabajo, Las " + TotalItem + " personas marcaron su asistencia correctamente";
+						ok.ShowDialog();
+						fis.Hide();
 					}
 				}
 			}

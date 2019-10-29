@@ -357,8 +357,129 @@ namespace Prj_Capa_Datos
 			return functionReturnValue;
 		}
 
-		
+		public bool BD_Checar_SiPersonal_TieneAsistencia_Registrada(string xidPerso)
+		{
+			bool fuctionReturnValue = false;
+			Int32 xfil = 0;
+
+			SqlConnection cn = new SqlConnection();
+			SqlCommand cmd = new SqlCommand();
+			cn.ConnectionString = Conectar();
+			var _with1 = cmd;
+			_with1.CommandText = "Sp_Ver_sihay_Registro";
+			_with1.Connection = cn;
+			_with1.CommandTimeout = 20;
+			_with1.CommandType = CommandType.StoredProcedure;
+			_with1.Parameters.AddWithValue("@Id_Personal", xidPerso);
+			try
+			{
+				cn.Open();
+				xfil = (Int32)cmd.ExecuteScalar();
+				if (xfil > 0)
+				{
+					fuctionReturnValue = true;
+				}
+				else
+				{
+					fuctionReturnValue = false;
+				}
+				cmd.Parameters.Clear();
+				cmd.Dispose();
+				cmd = null;
+				cn.Close();
+				cn = null;
+			}
+			catch (Exception ex)
+			{
+				if (cn.State == ConnectionState.Open)
+					cn.Close();
+				cmd.Dispose();
+				cmd = null;
+				cn.Close();
+				cn = null;
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+			return fuctionReturnValue;
+		}
+
+		public bool BD_Checar_SiPersonal_YaMarco_suFalta(string xidPerso)
+		{
+			bool fuctionReturnValue = false;
+			Int32 xfil = 0;
+
+			SqlConnection cn = new SqlConnection();
+			SqlCommand cmd = new SqlCommand();
+			cn.ConnectionString = Conectar();
+			var _with1 = cmd;
+			_with1.CommandText = "Sp_Verificar_siMarco_Falta";
+			_with1.Connection = cn;
+			_with1.CommandTimeout = 20;
+			_with1.CommandType = CommandType.StoredProcedure;
+			_with1.Parameters.AddWithValue("@Id_Personal", xidPerso);
+			try
+			{
+				cn.Open();
+				xfil = (Int32)cmd.ExecuteScalar();
+				if (xfil > 0)
+				{
+					fuctionReturnValue = true;
+				}
+				else
+				{
+					fuctionReturnValue = false;
+				}
+				cmd.Parameters.Clear();
+				cmd.Dispose();
+				cmd = null;
+				cn.Close();
+				cn = null;
+			}
+			catch (Exception ex)
+			{
+				if (cn.State == ConnectionState.Open)
+					cn.Close();
+				cmd.Dispose();
+				cmd = null;
+				cn.Close();
+				cn = null;
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+			return fuctionReturnValue;
+		}
 
 
+		public static bool faltasaved = false;
+
+		public void BD_Registrar_Falta_Personal(string idAsis, string idPerso, string justifi)
+		{
+			SqlConnection cn = new SqlConnection(Conectar());
+			SqlCommand cmd = new SqlCommand("Sp_Registrar_Falta", cn);
+
+			try
+			{
+				cmd.CommandTimeout = 20;
+				cmd.CommandType = CommandType.StoredProcedure;
+
+				//agregamos los parámetros
+				cmd.Parameters.AddWithValue("@IdAsis", idAsis);
+				cmd.Parameters.AddWithValue("@Id_Personal", idPerso);
+				cmd.Parameters.AddWithValue("@justificacion", justifi);
+
+				cn.Open();
+				cmd.ExecuteNonQuery();
+				cn.Close();
+
+				faltasaved = true;
+			}
+			catch (Exception ex)
+			{
+				faltasaved = false;
+				if (cn.State == ConnectionState.Open)
+				{
+					cn.Close();
+				}
+				MessageBox.Show("Falla al registrar la falta " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+		}
 	}
 }
