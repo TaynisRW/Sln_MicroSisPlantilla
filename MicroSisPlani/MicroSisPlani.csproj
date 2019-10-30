@@ -123,6 +123,12 @@
     <Compile Include="Frm_Reg_Justificacion.Designer.cs">
       <DependentUpon>Frm_Reg_Justificacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Informes\Frm_Print_Asisdeldia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informes\Frm_Print_Asisdeldia.Designer.cs">
+      <DependentUpon>Frm_Print_Asisdeldia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Informes\Frm_Print_Asistencia.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,6 +146,12 @@
     </Compile>
     <Compile Include="Informes\Frm_Solo_Personal_Fecha.Designer.cs">
       <DependentUpon>Frm_Solo_Personal_Fecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\Rpte_AsistenciasDeldia.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpte_AsistenciasDeldia.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Informes\Rpte_Asistencia_delMes.cs">
       <AutoGen>True</AutoGen>
@@ -222,6 +234,9 @@
     <EmbeddedResource Include="Frm_Reg_Justificacion.resx">
       <DependentUpon>Frm_Reg_Justificacion.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Informes\Frm_Print_Asisdeldia.resx">
+      <DependentUpon>Frm_Print_Asisdeldia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Informes\Frm_Print_Asistencia.resx">
       <DependentUpon>Frm_Print_Asistencia.cs</DependentUpon>
     </EmbeddedResource>
@@ -230,6 +245,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Informes\Frm_Solo_Personal_Fecha.resx">
       <DependentUpon>Frm_Solo_Personal_Fecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\Rpte_AsistenciasDeldia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpte_AsistenciasDeldia.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Informes\Rpte_Asistencia_delMes.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

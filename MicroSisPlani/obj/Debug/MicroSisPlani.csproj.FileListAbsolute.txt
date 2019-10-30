@@ -507,7 +507,6 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Micr
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
-C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csprojAssemblyReference.cache
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
@@ -533,3 +532,9 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Micr
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csproj.CopyComplete
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.exe
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.pdb
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\FlashControlV71.dll
+C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asisdeldia.resources

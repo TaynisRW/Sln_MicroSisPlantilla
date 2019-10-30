@@ -135,13 +135,16 @@ namespace MicroSisPlani
 			{
 				e.Cancel = true;
 			}
-
-
 		}
 
 		private void btn_nuevoAsis_Click(object sender, EventArgs e)
 		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Marcar_Asis_Manual asis = new Frm_Marcar_Asis_Manual();
 
+			fil.Show();
+			asis.ShowDialog();
+			fil.Hide();
 		}
 
 		private void bt_Explo_Asis_Click(object sender, EventArgs e)
@@ -652,6 +655,7 @@ namespace MicroSisPlani
 								EN_Asistencia asi = new EN_Asistencia();
 								IdAsistencia = RN_Utilitario.RN_NroDoc(3);
 
+
 								//Verificamos si el personal tiene alguna justificación..
 								//if (objA.RN_Verificar_Justificacion_Aprobado(xidpersona) == true)
 								//{
@@ -690,6 +694,58 @@ namespace MicroSisPlani
 				}
 			}
 
+		}
+
+		private void Bt_imprimirAsistenciaDelDia_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Print_Asisdeldia asis = new Frm_Print_Asisdeldia();
+			Frm_Solo_Fecha solo = new Frm_Solo_Fecha();
+
+			fil.Show();
+			solo.ShowDialog();
+			fil.Hide();
+
+			if (solo.Tag.ToString() == "") return;
+
+			DateTime xdia = solo.dtp_fecha.Value;
+
+			fil.Show();
+			asis.tipoinfo = "deldia";
+			asis.Tag = xdia;
+			asis.ShowDialog();
+			fil.Hide();
+		}
+
+		private void ToolStripMenuItem6_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Print_Asisdeldia asis = new Frm_Print_Asisdeldia();
+			Frm_Solo_Fecha solo = new Frm_Solo_Fecha();
+
+			fil.Show();
+			solo.ShowDialog();
+			fil.Hide();
+
+			if (solo.Tag.ToString() == "") return;
+
+			DateTime xdia = solo.dtp_fecha.Value;
+
+			fil.Show();
+			asis.tipoinfo = "delmes";
+			asis.Tag = xdia;
+			asis.ShowDialog();
+			fil.Hide();
+		}
+
+		private void ToolStripMenuItem2_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fis = new Frm_Filtro();
+
+			Frm_Marcar_Asistencia asis = new Frm_Marcar_Asistencia();
+			fis.Show();
+			asis.ShowDialog();
+			fis.Hide();
 		}
 	}
 }
