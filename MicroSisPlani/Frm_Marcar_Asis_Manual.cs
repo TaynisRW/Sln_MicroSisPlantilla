@@ -105,12 +105,6 @@ namespace MicroSisPlani
 						lbl_Cont.Text = "10";
 						pnl_Msm.Visible = true;
 						tmr_Conta.Enabled = true;
-
-						LimpiarFormulario();
-						sec = 10;
-						tmr_Conta.Stop();
-						pnl_Msm.Visible = false;
-						lbl_Cont.Text = "10";
 						return;
 					}
 					else if (objas.RN_Checar_SiPersonal_YaMarco_Entrada(Lbl_Idperso.Text.Trim()) == true)
@@ -160,12 +154,6 @@ namespace MicroSisPlani
 							lbl_Cont.Text = "10";
 							pnl_Msm.Visible = true;
 							tmr_Conta.Enabled = true;
-
-							LimpiarFormulario();
-							sec = 10;
-							tmr_Conta.Stop();
-							pnl_Msm.Visible = false;
-							lbl_Cont.Text = "10";
 							return;
 						}
 						//Está en tiempo para marcar su entrada

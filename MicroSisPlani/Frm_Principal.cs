@@ -167,7 +167,7 @@ namespace MicroSisPlani
 			elTab1.SelectedTabPageIndex = 0;
 		}
 
-		private void bt_copiarNroDNI_Click(object sender, EventArgs e)
+		private void btn_copiarNroDNI_Click(object sender, EventArgs e)
 		{
 			Frm_Advertencia adver = new Frm_Advertencia();
 			Frm_Filtro fis = new Frm_Filtro();
@@ -746,6 +746,55 @@ namespace MicroSisPlani
 			fis.Show();
 			asis.ShowDialog();
 			fis.Hide();
+		}
+
+		private void Btn_VerTodoPerso_Click(object sender, EventArgs e)
+		{
+			Cargar_todo_Perosnal();
+		}
+
+		private void Bt_NewPerso_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Registro_Personal per = new Frm_Registro_Personal();
+
+			fil.Show();
+			per.xedit = false;
+			per.ShowDialog();
+			fil.Hide();
+
+			if (Convert.ToString(per.Tag) == "")
+				return;
+			{
+				Cargar_todo_Perosnal();
+			}
+		}
+
+		private void Btn_EditPerso_Click(object sender, EventArgs e)
+		{
+			Frm_Filtro fil = new Frm_Filtro();
+			Frm_Registro_Personal per = new Frm_Registro_Personal();
+
+			if (lsv_person.SelectedIndices.Count == 0)
+			{
+
+			}
+			else
+			{
+				var lsv = lsv_person.SelectedItems[0];
+				string Idpersona = lsv.SubItems[0].Text;
+
+				fil.Show();
+				per.sevaeditar = true;
+				per.Buscar_Personal_ParaEditar(Idpersona);
+				per.ShowDialog();
+				fil.Hide();
+
+				if (Convert.ToString(per.Tag) == "A")
+				{
+					Cargar_todo_Perosnal();
+				}
+			}
 		}
 	}
 }
