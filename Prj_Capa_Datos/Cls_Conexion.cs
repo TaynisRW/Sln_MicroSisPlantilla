@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Prj_Capa_Datos
 {
@@ -11,13 +12,25 @@ namespace Prj_Capa_Datos
 
         public string Conectar()
         {
-            return @"Data Source=.; Initial Catalog=MicroSisPlani;integrated security=true";
+			StreamReader leer;
+			leer = new StreamReader(@"C:\SystemConnection.txt");
+			string linea;
+			linea = leer.ReadLine();
+			return linea;
+
+            //return @"Data Source=.; Initial Catalog=MicroSisPlani;integrated security=true";
             //return @"Data Source=PC-ADMIN\SQLEXPRESS; Initial Catalog=MicroSisPlani;uid=sa;pwd=admin"; ;
         }
 
         public static string Conectar2()
         {
-            return @"Data Source=.; Initial Catalog=MicroSisPlani;integrated security=true";
+			StreamReader leer;
+			leer = new StreamReader(@"C:\SystemConnection.txt");
+			string linea;
+			linea = leer.ReadLine();
+			return linea;
+
+			//return @"Data Source=.; Initial Catalog=MicroSisPlani;integrated security=true";
             //return @"Data Source=PC-ADMIN\SQLEXPRESS; Initial Catalog=MicroSisPlani;uid=sa;pwd=admin"; ;
         }
 
