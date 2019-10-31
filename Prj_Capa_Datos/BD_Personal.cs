@@ -228,5 +228,37 @@ namespace Prj_Capa_Datos
 			}
 			return functionReturnValue;
 		} //fin de verificar 1
+
+		public static bool supresed = false;
+
+		public void BD_Eliminar_Personal(string idperson)
+		{
+			SqlConnection cn = new SqlConnection(Conectar());
+			SqlCommand cmd = new SqlCommand("Sp_Eliminar_Personal", cn);
+
+			try
+			{
+				cmd.CommandTimeout = 20;
+				cmd.CommandType = CommandType.StoredProcedure;
+
+				//agregamos los parámetros
+				cmd.Parameters.AddWithValue("@dni", idperson);
+
+				cn.Open();
+				cmd.ExecuteNonQuery();
+				cn.Close();
+
+				supresed = true;
+			}
+			catch (Exception ex)
+			{
+				supresed = false;
+				if (cn.State == ConnectionState.Open)
+				{
+					cn.Close();
+				}
+				MessageBox.Show("Algo malo pasó: " + ex.Message, "Advertencia de Seguridad", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+		}
 	}
 }

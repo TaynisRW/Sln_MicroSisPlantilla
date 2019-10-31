@@ -47,5 +47,11 @@ namespace Prj_Capa_Negocio
 			return obj.BD_Verificar_DniPersonal(dni);
 		}
 
+		public void RN_Eliminar_Personal(string idperson)
+		{
+			BD_Personal obj = new BD_Personal();
+			obj.BD_Eliminar_Personal(idperson);
+		}
+
 	}
 }

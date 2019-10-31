@@ -30,28 +30,28 @@
         {
 			this.components = new System.ComponentModel.Container();
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Principal));
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle45 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle46 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle47 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle48 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle49 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle50 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle51 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle52 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle53 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle54 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle55 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle56 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle57 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle58 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle59 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle60 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle61 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle62 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle63 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle64 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle65 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle66 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle1 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle2 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle3 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle4 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle5 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle6 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle7 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle8 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle9 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle10 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle11 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle12 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle13 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle14 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle15 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle16 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle17 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle18 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle19 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle20 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle21 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+			Klik.Windows.Forms.v1.Common.PaintStyle paintStyle22 = new Klik.Windows.Forms.v1.Common.PaintStyle();
 			this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
 			this.pnl_titu = new System.Windows.Forms.Panel();
 			this.lbl_rolNom = new System.Windows.Forms.Label();
@@ -530,6 +530,7 @@
 			this.bt_exploJusti.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
 			this.bt_exploJusti.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			this.bt_exploJusti.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
+			this.bt_exploJusti.Click += new System.EventHandler(this.bt_exploJusti_Click);
 			// 
 			// bt_Explo_Asis
 			// 
@@ -656,9 +657,9 @@
 			this.ElLabel7.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel7.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel7.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle45.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle45.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel7.FlashStyle = paintStyle45;
+			paintStyle1.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle1.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel7.FlashStyle = paintStyle1;
 			this.ElLabel7.Location = new System.Drawing.Point(650, 109);
 			this.ElLabel7.Name = "ElLabel7";
 			this.ElLabel7.Size = new System.Drawing.Size(100, 24);
@@ -678,9 +679,9 @@
 			this.ElLabel6.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel6.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel6.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle46.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle46.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel6.FlashStyle = paintStyle46;
+			paintStyle2.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle2.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel6.FlashStyle = paintStyle2;
 			this.ElLabel6.Location = new System.Drawing.Point(751, 109);
 			this.ElLabel6.Name = "ElLabel6";
 			this.ElLabel6.Size = new System.Drawing.Size(133, 24);
@@ -701,9 +702,9 @@
 			this.ElLabel5.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel5.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel5.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle47.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle47.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel5.FlashStyle = paintStyle47;
+			paintStyle3.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle3.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel5.FlashStyle = paintStyle3;
 			this.ElLabel5.Location = new System.Drawing.Point(530, 109);
 			this.ElLabel5.Name = "ElLabel5";
 			this.ElLabel5.Size = new System.Drawing.Size(120, 24);
@@ -724,9 +725,9 @@
 			this.ElLabel4.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel4.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel4.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle48.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle48.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel4.FlashStyle = paintStyle48;
+			paintStyle4.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle4.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel4.FlashStyle = paintStyle4;
 			this.ElLabel4.Location = new System.Drawing.Point(420, 109);
 			this.ElLabel4.Name = "ElLabel4";
 			this.ElLabel4.Size = new System.Drawing.Size(110, 24);
@@ -747,9 +748,9 @@
 			this.ElLabel2.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel2.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel2.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle49.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle49.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel2.FlashStyle = paintStyle49;
+			paintStyle5.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle5.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel2.FlashStyle = paintStyle5;
 			this.ElLabel2.Location = new System.Drawing.Point(104, 109);
 			this.ElLabel2.Name = "ElLabel2";
 			this.ElLabel2.Size = new System.Drawing.Size(316, 24);
@@ -769,9 +770,9 @@
 			this.ElLabel1.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel1.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.ElLabel1.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle50.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle50.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.ElLabel1.FlashStyle = paintStyle50;
+			paintStyle6.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle6.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.ElLabel1.FlashStyle = paintStyle6;
 			this.ElLabel1.Location = new System.Drawing.Point(9, 109);
 			this.ElLabel1.Name = "ElLabel1";
 			this.ElLabel1.Size = new System.Drawing.Size(95, 24);
@@ -856,98 +857,100 @@
             this.toolStripSeparator7,
             this.bt_solicitarJustificacion});
 			this.SubMenu_Person.Name = "contextMenuStrip1";
-			this.SubMenu_Person.Size = new System.Drawing.Size(209, 222);
+			this.SubMenu_Person.Size = new System.Drawing.Size(210, 244);
 			// 
 			// bt_nuevoPersonal
 			// 
 			this.bt_nuevoPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_nuevoPersonal.Image")));
 			this.bt_nuevoPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_nuevoPersonal.Name = "bt_nuevoPersonal";
-			this.bt_nuevoPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_nuevoPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_nuevoPersonal.Text = "Nuevo Personal";
 			this.bt_nuevoPersonal.Click += new System.EventHandler(this.Bt_nuevoPersonal_Click);
 			// 
 			// toolStripSeparator1
 			// 
 			this.toolStripSeparator1.Name = "toolStripSeparator1";
-			this.toolStripSeparator1.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator1.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_editarPersonal
 			// 
 			this.bt_editarPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_editarPersonal.Image")));
 			this.bt_editarPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_editarPersonal.Name = "bt_editarPersonal";
-			this.bt_editarPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_editarPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_editarPersonal.Text = "Editar Personal";
 			this.bt_editarPersonal.Click += new System.EventHandler(this.bt_editarPersonal_Click);
 			// 
 			// toolStripSeparator4
 			// 
 			this.toolStripSeparator4.Name = "toolStripSeparator4";
-			this.toolStripSeparator4.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator4.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_registrarHuellaDigital
 			// 
 			this.bt_registrarHuellaDigital.Image = ((System.Drawing.Image)(resources.GetObject("bt_registrarHuellaDigital.Image")));
 			this.bt_registrarHuellaDigital.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_registrarHuellaDigital.Name = "bt_registrarHuellaDigital";
-			this.bt_registrarHuellaDigital.Size = new System.Drawing.Size(208, 26);
+			this.bt_registrarHuellaDigital.Size = new System.Drawing.Size(209, 26);
 			this.bt_registrarHuellaDigital.Text = "Registrar Huella Digital";
 			this.bt_registrarHuellaDigital.Click += new System.EventHandler(this.Bt_registrarHuellaDigital_Click);
 			// 
 			// toolStripSeparator2
 			// 
 			this.toolStripSeparator2.Name = "toolStripSeparator2";
-			this.toolStripSeparator2.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator2.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_eliminarPersonal
 			// 
 			this.bt_eliminarPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_eliminarPersonal.Image")));
 			this.bt_eliminarPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_eliminarPersonal.Name = "bt_eliminarPersonal";
-			this.bt_eliminarPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_eliminarPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_eliminarPersonal.Text = "Eliminar Personal";
+			this.bt_eliminarPersonal.Click += new System.EventHandler(this.bt_eliminarPersonal_Click);
 			// 
 			// toolStripSeparator3
 			// 
 			this.toolStripSeparator3.Name = "toolStripSeparator3";
-			this.toolStripSeparator3.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator3.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_mostrarTodoElPersonal
 			// 
 			this.bt_mostrarTodoElPersonal.Image = ((System.Drawing.Image)(resources.GetObject("bt_mostrarTodoElPersonal.Image")));
 			this.bt_mostrarTodoElPersonal.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_mostrarTodoElPersonal.Name = "bt_mostrarTodoElPersonal";
-			this.bt_mostrarTodoElPersonal.Size = new System.Drawing.Size(208, 26);
+			this.bt_mostrarTodoElPersonal.Size = new System.Drawing.Size(209, 26);
 			this.bt_mostrarTodoElPersonal.Text = "Mostrar Todo el Personal";
 			this.bt_mostrarTodoElPersonal.Click += new System.EventHandler(this.Bt_mostrarTodoElPersonal_Click);
 			// 
 			// toolStripSeparator5
 			// 
 			this.toolStripSeparator5.Name = "toolStripSeparator5";
-			this.toolStripSeparator5.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator5.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_copiarNroDNI
 			// 
 			this.bt_copiarNroDNI.Image = ((System.Drawing.Image)(resources.GetObject("bt_copiarNroDNI.Image")));
 			this.bt_copiarNroDNI.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_copiarNroDNI.Name = "bt_copiarNroDNI";
-			this.bt_copiarNroDNI.Size = new System.Drawing.Size(208, 26);
+			this.bt_copiarNroDNI.Size = new System.Drawing.Size(209, 26);
 			this.bt_copiarNroDNI.Text = "Copiar Nro DNI";
 			this.bt_copiarNroDNI.Click += new System.EventHandler(this.btn_copiarNroDNI_Click);
 			// 
 			// toolStripSeparator7
 			// 
 			this.toolStripSeparator7.Name = "toolStripSeparator7";
-			this.toolStripSeparator7.Size = new System.Drawing.Size(205, 6);
+			this.toolStripSeparator7.Size = new System.Drawing.Size(206, 6);
 			// 
 			// bt_solicitarJustificacion
 			// 
 			this.bt_solicitarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_solicitarJustificacion.Image")));
 			this.bt_solicitarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_solicitarJustificacion.Name = "bt_solicitarJustificacion";
-			this.bt_solicitarJustificacion.Size = new System.Drawing.Size(208, 26);
+			this.bt_solicitarJustificacion.Size = new System.Drawing.Size(209, 26);
 			this.bt_solicitarJustificacion.Text = "Solicitar Justificacion";
+			this.bt_solicitarJustificacion.Click += new System.EventHandler(this.bt_solicitarJustificacion_Click);
 			// 
 			// Lbl_total
 			// 
@@ -1306,9 +1309,9 @@
 			this.elLabel15.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel15.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel15.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle51.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle51.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel15.FlashStyle = paintStyle51;
+			paintStyle7.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle7.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel15.FlashStyle = paintStyle7;
 			this.elLabel15.Location = new System.Drawing.Point(671, 90);
 			this.elLabel15.Name = "elLabel15";
 			this.elLabel15.Size = new System.Drawing.Size(70, 24);
@@ -1329,9 +1332,9 @@
 			this.elLabel14.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel14.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel14.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle52.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle52.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel14.FlashStyle = paintStyle52;
+			paintStyle8.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle8.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel14.FlashStyle = paintStyle8;
 			this.elLabel14.Location = new System.Drawing.Point(742, 90);
 			this.elLabel14.Name = "elLabel14";
 			this.elLabel14.Size = new System.Drawing.Size(90, 24);
@@ -1352,9 +1355,9 @@
 			this.elLabel13.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel13.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel13.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle53.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle53.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel13.FlashStyle = paintStyle53;
+			paintStyle9.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle9.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel13.FlashStyle = paintStyle9;
 			this.elLabel13.Location = new System.Drawing.Point(580, 90);
 			this.elLabel13.Name = "elLabel13";
 			this.elLabel13.Size = new System.Drawing.Size(90, 24);
@@ -1375,9 +1378,9 @@
 			this.elLabel3.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel3.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel3.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle54.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle54.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel3.FlashStyle = paintStyle54;
+			paintStyle10.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle10.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel3.FlashStyle = paintStyle10;
 			this.elLabel3.Location = new System.Drawing.Point(833, 90);
 			this.elLabel3.Name = "elLabel3";
 			this.elLabel3.Size = new System.Drawing.Size(90, 24);
@@ -1397,9 +1400,9 @@
 			this.elLabel8.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel8.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel8.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle55.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle55.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel8.FlashStyle = paintStyle55;
+			paintStyle11.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle11.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel8.FlashStyle = paintStyle11;
 			this.elLabel8.Location = new System.Drawing.Point(923, 90);
 			this.elLabel8.Name = "elLabel8";
 			this.elLabel8.Size = new System.Drawing.Size(110, 24);
@@ -1420,9 +1423,9 @@
 			this.elLabel9.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel9.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel9.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle56.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle56.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel9.FlashStyle = paintStyle56;
+			paintStyle12.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle12.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel9.FlashStyle = paintStyle12;
 			this.elLabel9.Location = new System.Drawing.Point(499, 90);
 			this.elLabel9.Name = "elLabel9";
 			this.elLabel9.Size = new System.Drawing.Size(80, 24);
@@ -1443,9 +1446,9 @@
 			this.elLabel10.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel10.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel10.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle57.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle57.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel10.FlashStyle = paintStyle57;
+			paintStyle13.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle13.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel10.FlashStyle = paintStyle13;
 			this.elLabel10.Location = new System.Drawing.Point(408, 90);
 			this.elLabel10.Name = "elLabel10";
 			this.elLabel10.Size = new System.Drawing.Size(90, 24);
@@ -1466,9 +1469,9 @@
 			this.elLabel11.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel11.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel11.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle58.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle58.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel11.FlashStyle = paintStyle58;
+			paintStyle14.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle14.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel11.FlashStyle = paintStyle14;
 			this.elLabel11.Location = new System.Drawing.Point(90, 90);
 			this.elLabel11.Name = "elLabel11";
 			this.elLabel11.Size = new System.Drawing.Size(316, 24);
@@ -1488,9 +1491,9 @@
 			this.elLabel12.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel12.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel12.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle59.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle59.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel12.FlashStyle = paintStyle59;
+			paintStyle15.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle15.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel12.FlashStyle = paintStyle15;
 			this.elLabel12.Location = new System.Drawing.Point(9, 90);
 			this.elLabel12.Name = "elLabel12";
 			this.elLabel12.Size = new System.Drawing.Size(80, 24);
@@ -1660,9 +1663,9 @@
 			this.lbl_totalPer.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
 			this.lbl_totalPer.BackgroundStyle.SolidColor = System.Drawing.Color.White;
 			this.lbl_totalPer.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
-			paintStyle60.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle60.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.lbl_totalPer.FlashStyle = paintStyle60;
+			paintStyle16.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle16.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.lbl_totalPer.FlashStyle = paintStyle16;
 			this.lbl_totalPer.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
 			this.lbl_totalPer.Location = new System.Drawing.Point(101, 147);
 			this.lbl_totalPer.Name = "lbl_totalPer";
@@ -1730,9 +1733,9 @@
 			this.lbl_Cont.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
 			this.lbl_Cont.BackgroundStyle.SolidColor = System.Drawing.Color.White;
 			this.lbl_Cont.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
-			paintStyle61.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle61.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.lbl_Cont.FlashStyle = paintStyle61;
+			paintStyle17.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle17.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.lbl_Cont.FlashStyle = paintStyle17;
 			this.lbl_Cont.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
 			this.lbl_Cont.Location = new System.Drawing.Point(16, 147);
 			this.lbl_Cont.Name = "lbl_Cont";
@@ -2040,7 +2043,6 @@
 			// 
 			this.elTabPage5.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
 			this.elTabPage5.BackgroundStyle.SolidColor = System.Drawing.Color.White;
-			this.elTabPage5.CaptionImageStyle.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image3")));
 			this.elTabPage5.CaptionTextStyle.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.elTabPage5.CaptionTextStyle.Text = "Justificaciones";
 			this.elTabPage5.Controls.Add(this.dtp_fechajusti);
@@ -2110,6 +2112,7 @@
 			this.txt_buscarjusti.Size = new System.Drawing.Size(244, 32);
 			this.txt_buscarjusti.TabIndex = 31;
 			this.txt_buscarjusti.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+			this.txt_buscarjusti.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_buscarjusti_KeyDown);
 			// 
 			// lbl_totaljusti
 			// 
@@ -2140,6 +2143,7 @@
 			this.bt_cerrarjusti.TabIndex = 467;
 			this.toolTip1.SetToolTip(this.bt_cerrarjusti, "Cerrar Explorador");
 			this.bt_cerrarjusti.UseVisualStyleBackColor = true;
+			this.bt_cerrarjusti.Click += new System.EventHandler(this.bt_cerrarjusti_Click);
 			// 
 			// elLabel19
 			// 
@@ -2150,9 +2154,9 @@
 			this.elLabel19.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel19.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel19.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle62.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle62.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel19.FlashStyle = paintStyle62;
+			paintStyle18.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle18.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel19.FlashStyle = paintStyle18;
 			this.elLabel19.Location = new System.Drawing.Point(563, 90);
 			this.elLabel19.Name = "elLabel19";
 			this.elLabel19.Size = new System.Drawing.Size(120, 24);
@@ -2186,6 +2190,7 @@
 			this.lsv_justifi.Size = new System.Drawing.Size(789, 351);
 			this.lsv_justifi.TabIndex = 463;
 			this.lsv_justifi.UseCompatibleStateImageBehavior = false;
+			this.lsv_justifi.MouseClick += new System.Windows.Forms.MouseEventHandler(this.lsv_justifi_MouseClick);
 			// 
 			// subMenuJusti
 			// 
@@ -2202,80 +2207,86 @@
             this.aprobarJustificacionToolStripMenuItem,
             this.bt_desaprobarJustificacion});
 			this.subMenuJusti.Name = "contextMenuStrip1";
-			this.subMenuJusti.Size = new System.Drawing.Size(234, 190);
+			this.subMenuJusti.Size = new System.Drawing.Size(235, 190);
 			// 
 			// bt_aprobarJustificacion
 			// 
 			this.bt_aprobarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_aprobarJustificacion.Image")));
 			this.bt_aprobarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_aprobarJustificacion.Name = "bt_aprobarJustificacion";
-			this.bt_aprobarJustificacion.Size = new System.Drawing.Size(233, 26);
+			this.bt_aprobarJustificacion.Size = new System.Drawing.Size(234, 26);
 			this.bt_aprobarJustificacion.Text = "Aprobar Justificacion";
+			this.bt_aprobarJustificacion.Click += new System.EventHandler(this.bt_aprobarJustificacion_Click);
 			// 
 			// toolStripSeparator6
 			// 
 			this.toolStripSeparator6.Name = "toolStripSeparator6";
-			this.toolStripSeparator6.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator6.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_editJusti
 			// 
 			this.bt_editJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_editJusti.Image")));
 			this.bt_editJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_editJusti.Name = "bt_editJusti";
-			this.bt_editJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_editJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_editJusti.Text = "Editar Justificacion";
+			this.bt_editJusti.Click += new System.EventHandler(this.bt_editJusti_Click);
 			// 
 			// toolStripSeparator8
 			// 
 			this.toolStripSeparator8.Name = "toolStripSeparator8";
-			this.toolStripSeparator8.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator8.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_ElimiJusti
 			// 
 			this.bt_ElimiJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_ElimiJusti.Image")));
 			this.bt_ElimiJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_ElimiJusti.Name = "bt_ElimiJusti";
-			this.bt_ElimiJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_ElimiJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_ElimiJusti.Text = "Eliminar Justificacion";
+			this.bt_ElimiJusti.Click += new System.EventHandler(this.bt_ElimiJusti_Click);
 			// 
 			// toolStripSeparator9
 			// 
 			this.toolStripSeparator9.Name = "toolStripSeparator9";
-			this.toolStripSeparator9.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator9.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_mostrarJusti
 			// 
 			this.bt_mostrarJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_mostrarJusti.Image")));
 			this.bt_mostrarJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_mostrarJusti.Name = "bt_mostrarJusti";
-			this.bt_mostrarJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_mostrarJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_mostrarJusti.Text = "Mostrar Todo las Justificacion";
+			this.bt_mostrarJusti.Click += new System.EventHandler(this.bt_mostrarJusti_Click);
 			// 
 			// toolStripSeparator10
 			// 
 			this.toolStripSeparator10.Name = "toolStripSeparator10";
-			this.toolStripSeparator10.Size = new System.Drawing.Size(230, 6);
+			this.toolStripSeparator10.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_CopiarNroJusti
 			// 
 			this.bt_CopiarNroJusti.Image = ((System.Drawing.Image)(resources.GetObject("bt_CopiarNroJusti.Image")));
 			this.bt_CopiarNroJusti.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_CopiarNroJusti.Name = "bt_CopiarNroJusti";
-			this.bt_CopiarNroJusti.Size = new System.Drawing.Size(233, 26);
+			this.bt_CopiarNroJusti.Size = new System.Drawing.Size(234, 26);
 			this.bt_CopiarNroJusti.Text = "Copiar Nro Justificacion";
+			this.bt_CopiarNroJusti.Click += new System.EventHandler(this.bt_CopiarNroJusti_Click);
 			// 
 			// aprobarJustificacionToolStripMenuItem
 			// 
 			this.aprobarJustificacionToolStripMenuItem.Name = "aprobarJustificacionToolStripMenuItem";
-			this.aprobarJustificacionToolStripMenuItem.Size = new System.Drawing.Size(230, 6);
+			this.aprobarJustificacionToolStripMenuItem.Size = new System.Drawing.Size(231, 6);
 			// 
 			// bt_desaprobarJustificacion
 			// 
 			this.bt_desaprobarJustificacion.Image = ((System.Drawing.Image)(resources.GetObject("bt_desaprobarJustificacion.Image")));
 			this.bt_desaprobarJustificacion.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
 			this.bt_desaprobarJustificacion.Name = "bt_desaprobarJustificacion";
-			this.bt_desaprobarJustificacion.Size = new System.Drawing.Size(233, 26);
+			this.bt_desaprobarJustificacion.Size = new System.Drawing.Size(234, 26);
 			this.bt_desaprobarJustificacion.Text = "Desaprobar Justificacion";
+			this.bt_desaprobarJustificacion.Click += new System.EventHandler(this.bt_desaprobarJustificacion_Click);
 			// 
 			// elLabel16
 			// 
@@ -2285,9 +2296,9 @@
 			this.elLabel16.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel16.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel16.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle63.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle63.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel16.FlashStyle = paintStyle63;
+			paintStyle19.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle19.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel16.FlashStyle = paintStyle19;
 			this.elLabel16.Location = new System.Drawing.Point(684, 90);
 			this.elLabel16.Name = "elLabel16";
 			this.elLabel16.Size = new System.Drawing.Size(120, 24);
@@ -2308,9 +2319,9 @@
 			this.elLabel17.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel17.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel17.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle64.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle64.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel17.FlashStyle = paintStyle64;
+			paintStyle20.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle20.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel17.FlashStyle = paintStyle20;
 			this.elLabel17.Location = new System.Drawing.Point(442, 90);
 			this.elLabel17.Name = "elLabel17";
 			this.elLabel17.Size = new System.Drawing.Size(120, 24);
@@ -2331,9 +2342,9 @@
 			this.elLabel18.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel18.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel18.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle65.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle65.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel18.FlashStyle = paintStyle65;
+			paintStyle21.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle21.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel18.FlashStyle = paintStyle21;
 			this.elLabel18.Location = new System.Drawing.Point(332, 90);
 			this.elLabel18.Name = "elLabel18";
 			this.elLabel18.Size = new System.Drawing.Size(110, 24);
@@ -2353,9 +2364,9 @@
 			this.elLabel20.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel20.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
 			this.elLabel20.BorderStyle.SolidColor = System.Drawing.Color.WhiteSmoke;
-			paintStyle66.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-			paintStyle66.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-			this.elLabel20.FlashStyle = paintStyle66;
+			paintStyle22.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+			paintStyle22.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+			this.elLabel20.FlashStyle = paintStyle22;
 			this.elLabel20.Location = new System.Drawing.Point(15, 90);
 			this.elLabel20.Name = "elLabel20";
 			this.elLabel20.Size = new System.Drawing.Size(316, 24);

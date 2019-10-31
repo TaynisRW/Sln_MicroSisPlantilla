@@ -36,7 +36,6 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_
 C:\Users\Adrián Manzano\Documents\Visual Studio 2019\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.pdb
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debug\Prj_Capa_Entidad.dll
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debug\Prj_Capa_Entidad.pdb
-C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.dll
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\Prj_Capa_Entidad\obj\Debug\Prj_Capa_Entidad.pdb
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Prj_Capa_Entidad\bin\Debug\Prj_Capa_Entidad.dll

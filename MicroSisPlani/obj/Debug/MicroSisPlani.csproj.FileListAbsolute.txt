@@ -452,7 +452,6 @@ C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\s
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Datos.pdb
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Entidad.pdb
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\Prj_Capa_Negocio.pdb
-C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\DevComponents.DotNetBar2.xml
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
 C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Frm_Login.resources
@@ -538,3 +537,9 @@ C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\Micr
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\FlashControlV71.dll
 C:\Users\Adrián Manzano\Documents\Visual Studio 2017\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asisdeldia.resources
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\bin\Debug\FlashControlV71.dll
+C:\Users\Mel\Documents\Proyectos\Sln_MicroSisPlantilla\MicroSisPlani\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asisdeldia.resources
